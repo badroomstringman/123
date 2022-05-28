@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.5.23)  28 MAY 2022 18:15
 =======
 This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.5.23)  28 MAY 2022 18:04
 >>>>>>> 6c4f038 (I AM BACK)
+=======
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.5.23)  28 MAY 2022 18:15
+>>>>>>> 658121e (THANK)
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -79,7 +83,11 @@ Here is how much of TeX's memory you used:
  33i,5n,38p,181b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Output written on main.xdv (1 page, 1500 bytes).
 =======
 Output written on main.xdv (1 page, 1020 bytes).
 >>>>>>> 6c4f038 (I AM BACK)
+=======
+Output written on main.xdv (1 page, 1500 bytes).
+>>>>>>> 658121e (THANK)
