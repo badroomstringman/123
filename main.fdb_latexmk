@@ -1,0 +1,19 @@
+# Fdb version 3
+["xdvipdfmx"] 1653738781 "main.xdv" "main.pdf" "main" 1653738781
+  "main.xdv" 1653738781 748 2d861a758b92bf4a415da53406efd535 "xelatex"
+  (generated)
+  "main.pdf"
+["xelatex"] 1653738780 "c:/Users/endchen/Desktop/testing/main.tex" "main.xdv" "main" 1653738781
+  "C:/Users/endchen/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1653244374 23683046 a16299e5a75bf5bc512c94664f389818 ""
+  "C:/Users/endchen/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1638775084 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "C:/Users/endchen/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1638775084 5049 969aec05d5f39c43f8005910498fcf90 ""
+  "C:/Users/endchen/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1638775084 8449 bc7344e882df4d7e51c046514dee83e4 ""
+  "C:/Users/endchen/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd" 1638775082 2430 06a89bcded389391906798ea7a3f3aaa ""
+  "C:/Users/endchen/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-xetex.def" 1650429716 32557 b1da7f73289e85f54373b61a517a5777 ""
+  "c:/Users/endchen/Desktop/testing/main.tex" 1653738628 140 ebfed527e5d5663d59b0aec2c68ef03c ""
+  "main.aux" 1653738781 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "main.tex" 1653738628 140 ebfed527e5d5663d59b0aec2c68ef03c ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.xdv"
